@@ -1,4 +1,4 @@
--# Hi there, I'm Geyamrutha 👋  
+Hi there, I'm Geyamrutha 👋  
 
 Welcome to my GitHub profile! I’m a passionate developer and technology enthusiast who loves exploring new tools, frameworks, and technologies. Here's a little more about me:  
 
@@ -13,9 +13,6 @@ Welcome to my GitHub profile! I’m a passionate developer and technology enthus
 - **Frameworks:** React.js, Node.js, Express.js
 - **DataBase:** MongoDB, SQL  
 - **Tools:** Git, Postman, Power BI  
-
-## 📈 GitHub Stats  
-![Amrutha's GitHub stats](https://github-readme-stats.vercel.app/api?username=geyamrutha16&show_icons=true&theme=radical)  
 
 ## 🔗 Connect with Me  
 - **[LinkedIn](https://www.linkedin.com/in/geyamrutha16)**   
