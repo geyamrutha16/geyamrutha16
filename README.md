@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I’m a passionate developer and technology enthus
 <h2 align="center">A passionate frontend developer & Backend developer from India</h2>
 
 <p align="center">
-  <img src="https://i.imgur.com/YOUR_IMAGE_LINK.gif" alt="developer" width="700"/>
+  <img src="https://drive.google.com/file/d/1nH9dp1aEHwg3ZRAmph-vBfm5lK4rGizO/view?usp=sharing" alt="developer" width="700"/>
 </p>
 
 <p align="center">
