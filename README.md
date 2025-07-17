@@ -5,10 +5,6 @@ Welcome to my GitHub profile! I’m a passionate developer and technology enthus
 <h2 align="center">A passionate frontend developer & Backend developer from India</h2>
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1nH9dp1aEHwg3ZRAmph-vBfm5lK4rGizO/view?usp=sharing" alt="developer" width="700"/>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=geyamrutha16&label=Profile%20views&color=0e75b6&style=flat" alt="geyamrutha16" />
 </p>
 
