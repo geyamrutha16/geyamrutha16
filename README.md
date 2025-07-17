@@ -2,6 +2,16 @@ Hi there, I'm Geyamrutha 👋
 
 Welcome to my GitHub profile! I’m a passionate developer and technology enthusiast who loves exploring new tools, frameworks, and technologies. Here's a little more about me:  
 
+<h2 align="center">A passionate frontend developer & Backend developer from India</h2>
+
+<p align="center">
+  <img src="https://i.imgur.com/YOUR_IMAGE_LINK.gif" alt="developer" width="700"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=geyamrutha16&label=Profile%20views&color=0e75b6&style=flat" alt="geyamrutha16" />
+</p>
+
 ## 🚀 About Me  
 - 🌱 I’m currently learning: **Full Stack Development (MERN, Python), Cloud Computing, and Advanced Problem-Solving Techniques.**  
 - 👯 I’m looking to collaborate on: **Open-source projects, MERN stack applications, and innovative tech solutions.**  
